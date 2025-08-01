@@ -1,0 +1,6 @@
+name = input("Enter the name: ")
+greetings = input("Enter the greetings: ")
+age = int(input("Enter the age: "))
+mail_id = input("Enter the mail:")
+Technology = input("Enter the technology: ")
+print(f"Welcome {name}, {greetings}. your age is {age} your mail-id is {mail_id} and your Technology is {Technology}")
